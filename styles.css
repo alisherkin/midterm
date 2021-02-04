@@ -1,0 +1,55 @@
+body {
+	background-image: url(back.jpg);
+	background-size: cover;
+}
+
+.categories {
+	float: left;
+	margin-top: 20px;
+	margin-left: 50px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.loginForm {
+	/* margin-left: 300px; */
+	border: solid 1px;
+	border-radius: 10px;
+
+}
+
+.clothes {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 290px;
+	height: 200px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+.magaz {
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.register {
+ margin: 20px;
+ background-color: orange;
+}
+
+#carousel {
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fotki {
+	width: 30%;
+	background-color: grey;
+}
+
+.cards {
+	margin-top: 20px;
+}
